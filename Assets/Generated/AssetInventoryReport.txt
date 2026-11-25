@@ -1,0 +1,298 @@
+﻿=== PROJECT EAS ASSET INVENTORY REPORT ===
+
+## UNIVERSAL BASE CHARACTERS: Assets/Universal Base Characters[Standard]
+  Models (26) in 'Assets/Universal Base Characters[Standard]':
+    - Assets/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Female_FullBody.fbx | Mats: [MI_Eyes, MI_Superhero_Female]
+    - Assets/Universal Base Characters[Standard]/Base Characters/Unity/Superhero_Male_FullBody.fbx | Mats: [MI_Eyes, MI_Superhero_Male]
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Eyebrows_Female.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Eyebrows_Regular.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Beard.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Buns.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Buzzed.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_BuzzedFemale.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_Long.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Origin at 0/FBX (Unity)/Hair_SimpleParted.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Eyebrows_Female.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Eyebrows_Regular.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Beard.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Buns.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Buzzed.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_BuzzedFemale.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_Long.fbx | Mats: []
+    - Assets/Universal Base Characters[Standard]/Hairstyles/Rigged to Head Bone/FBX (Unity)/Hair_SimpleParted.fbx | Mats: []
+
+## CHARACTER OUTFITS: Assets/Modular Character Outfits - Fantasy[Standard]
+  Models (24) in 'Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)':
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Peasant_Arms.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Peasant_Body.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Peasant_Feet.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Peasant_Legs.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Acc_Pauldrons.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Arms.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Body.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Feet.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Head_Hood.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Female_Ranger_Legs.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Peasant_Arms.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Peasant_Body.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Peasant_Feet.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Peasant_Legs.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Acc_Pauldron.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Arms.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Body.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Feet_Boots.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Head_Hood.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Modular Parts/Male_Ranger_Legs.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Outfits/Female_Peasant.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Outfits/Female_Ranger.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Outfits/Male_Peasant.fbx | Mats: []
+    - Assets/Modular Character Outfits - Fantasy[Standard]/Exports/FBX (Unity)/Outfits/Male_Ranger.fbx | Mats: []
+
+## BESTIARY MONSTERS: Assets/Bestiary - Dungeon Monsters Kit[Standard]
+  Models (2) in 'Assets/Bestiary - Dungeon Monsters Kit[Standard]/Exports/FBX (Unity)':
+    - Assets/Bestiary - Dungeon Monsters Kit[Standard]/Exports/FBX (Unity)/Imp.fbx | Mats: []
+    - Assets/Bestiary - Dungeon Monsters Kit[Standard]/Exports/FBX (Unity)/Puglin.fbx | Mats: []
+
+## ANIMATION DISCOVERY (Assets/Animation)
+  Animation Clips found outside environment packs (173, humanoidUpdated=0):
+    - Assets/Animation/Universal Animation Library 2[Standard]/Female Mannequin/Mannequin_F.blend -> Scene (10.38s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Sword_Heavy_Combo (4.33s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Shield_Dash (1.10s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Idle_Shield_Break (1.07s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Sword_Regular_B_Rec (1.03s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Sword_Regular_A_Rec (0.97s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Chest_Open (1.37s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Slide_Loop (2.00s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Sword_Dash (1.57s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Sword_Block (1.23s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Idle_No_Loop (2.50s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|A_TPose (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Idle_Lantern_Loop (2.50s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Walk_Carry_Loop (2.00s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|ClimbUp_1m (0.67s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Slide_Exit (0.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Sword_Regular_A (0.43s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Zombie_Scratch (1.80s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|NinjaJump_Idle_Loop (2.00s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|TreeChopping_Loop (0.97s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Idle_Rail_Loop (2.50s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|LayToIdle (1.53s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Sword_Regular_Combo (3.00s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Farm_Watering (3.80s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Hit_Knockback (0.83s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Sword_Regular_C (2.00s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Idle_Shield_Loop (2.50s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Idle_TalkingPhone_Loop (2.93s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Sword_Regular_B (0.53s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Shield_OneShot (0.83s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Farm_Harvest (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Slide_Start (0.83s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|NinjaJump_Land (1.27s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|NinjaJump_Start (0.97s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Zombie_Walk_Fwd_Loop (1.33s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Yes (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Idle_Rail_Call (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Consume (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Farm_PlantSeed (2.77s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Idle_FoldArms_Loop (2.50s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Melee_Hook_Rec (0.60s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|OverhandThrow (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Melee_Hook (0.47s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard.fbx -> Armature|Zombie_Idle_Loop (1.33s, loop=True)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Sword_Heavy_Combo (4.33s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Shield_Dash (1.10s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Idle_Shield_Break (1.07s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Sword_Regular_B_Rec (1.03s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Sword_Regular_A_Rec (0.97s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Chest_Open (1.37s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Slide_Loop (2.00s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Sword_Dash (1.57s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Sword_Block (1.23s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Idle_No_Loop (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|A_TPose (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Idle_Lantern_Loop (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Walk_Carry_Loop (2.00s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|ClimbUp_1m (0.67s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Slide_Exit (0.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Sword_Regular_A (0.43s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Zombie_Scratch (1.80s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|NinjaJump_Idle_Loop (2.00s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|TreeChopping_Loop (0.97s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Idle_Rail_Loop (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|LayToIdle (1.53s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Sword_Regular_Combo (3.00s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Farm_Watering (3.80s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Hit_Knockback (0.83s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Sword_Regular_C (2.00s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Idle_Shield_Loop (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Idle_TalkingPhone_Loop (2.93s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Sword_Regular_B (0.53s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Shield_OneShot (0.83s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Farm_Harvest (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Slide_Start (0.83s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|NinjaJump_Land (1.27s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|NinjaJump_Start (0.97s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Zombie_Walk_Fwd_Loop (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Yes (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Idle_Rail_Call (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Consume (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Farm_PlantSeed (2.77s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Idle_FoldArms_Loop (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Melee_Hook_Rec (0.60s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|OverhandThrow (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Melee_Hook (0.47s, loop=False)
+    - Assets/Animation/Universal Animation Library 2[Standard]/Unity/UAL2_Standard_RM.fbx -> Armature|Zombie_Idle_Loop (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Death01 (2.40s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Driving_Loop (1.67s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Fixing_Kneeling (5.20s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Dance_Loop (1.00s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Hit_Chest (0.33s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Idle_Talking_Loop (2.93s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Interact (2.00s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Hit_Head (0.43s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Idle_Loop (2.50s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Walk_Formal_Loop (1.33s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Sword_Idle (1.67s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Walk_Loop (1.33s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Spell_Simple_Enter (0.53s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Sword_Attack (1.53s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Swim_Fwd_Loop (1.33s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Jump_Start (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Pistol_Idle_Loop (1.67s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Pistol_Reload (1.67s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Pistol_Aim_Up (0.17s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Pistol_Shoot (0.63s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Swim_Idle_Loop (3.33s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Punch_Cross (1.00s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Sitting_Exit (1.03s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Roll (1.47s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Punch_Jab (0.87s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Spell_Simple_Exit (0.43s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Pistol_Aim_Neutral (0.17s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Spell_Simple_Idle_Loop (2.10s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|PickUp_Table (0.83s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Sitting_Talking_Loop (2.93s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Push_Loop (2.67s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Sprint_Loop (0.67s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Sitting_Idle_Loop (1.67s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Sitting_Enter (1.30s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Spell_Simple_Shoot (0.50s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Pistol_Aim_Down (0.17s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|A_TPose (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Jump_Loop (2.50s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Jump_Land (1.27s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Crouch_Fwd_Loop (2.00s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Crouch_Idle_Loop (2.93s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Jog_Fwd_Loop (0.93s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard.fbx -> Armature|Idle_Torch_Loop (1.27s, loop=True)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Jump_Land (1.27s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Jump_Loop (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Jump_Start (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Pistol_Aim_Down (0.17s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Walk_Loop (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Pistol_Aim_Neutral (0.17s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Pistol_Aim_Up (0.17s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|PickUp_Table (0.83s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Swim_Idle_Loop (3.33s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Punch_Cross (1.00s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Sitting_Idle_Loop (1.67s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Spell_Simple_Shoot (0.50s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Sitting_Exit (1.03s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Sword_Attack (1.53s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|A_TPose (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Dance_Loop (1.00s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Roll (1.47s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Swim_Fwd_Loop (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Spell_Simple_Exit (0.43s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Punch_Jab (0.87s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Walk_Formal_Loop (1.33s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Sprint_Loop (0.67s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Spell_Simple_Enter (0.53s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Sitting_Talking_Loop (2.93s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Push_Loop (2.67s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Crouch_Idle_Loop (2.93s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Sitting_Enter (1.30s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Crouch_Fwd_Loop (2.00s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Sword_Idle (1.67s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Driving_Loop (1.67s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Death01 (2.40s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Pistol_Reload (1.67s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Pistol_Shoot (0.63s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Hit_Head (0.43s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Interact (2.00s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Idle_Torch_Loop (1.27s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Pistol_Idle_Loop (1.67s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Fixing_Kneeling (5.20s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Spell_Simple_Idle_Loop (2.10s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Idle_Loop (2.50s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Jog_Fwd_Loop (0.93s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Idle_Talking_Loop (2.93s, loop=False)
+    - Assets/Animation/Universal Animation Library[Standard]/Unity/UAL1_Standard_RM.fbx -> Armature|Hit_Chest (0.33s, loop=False)
+
+## EXTRA BASE CHARACTER / HEAD MODELS IN ASSETS
+    - Assets/Weapons/Blend/Weapons.blend
+    - Assets/Weapons/FBX/Arrow_1_A.fbx
+    - Assets/Weapons/FBX/Arrow_1_B.fbx
+    - Assets/Weapons/FBX/Arrow_2_A.fbx
+    - Assets/Weapons/FBX/Arrow_2_B.fbx
+    - Assets/Weapons/FBX/BattleAxe_1_1_A.fbx
+    - Assets/Weapons/FBX/BattleAxe_1_1_B.fbx
+    - Assets/Weapons/FBX/BattleAxe_2_1_A.fbx
+    - Assets/Weapons/FBX/BattleAxe_2_1_B.fbx
+    - Assets/Weapons/FBX/BattleAxe_3_1_A.fbx
+    - Assets/Weapons/FBX/BattleAxe_3_1_B.fbx
+    - Assets/Weapons/FBX/BattleAxe_3_1_C.fbx
+    - Assets/Weapons/FBX/Bow_1_1_A_001.fbx
+    - Assets/Weapons/FBX/DruidStaff_1_1_A.fbx
+    - Assets/Weapons/FBX/DruidStaff_1_1_B.fbx
+    - Assets/Weapons/FBX/DruidStaff_2_1_A.fbx
+    - Assets/Weapons/FBX/DruidStaff_2_1_B.fbx
+    - Assets/Weapons/FBX/HornB_1_1_A.fbx
+    - Assets/Weapons/FBX/Shield_1_A.fbx
+    - Assets/Weapons/FBX/Shield_1_B.fbx
+    - Assets/Weapons/FBX/Shield_1_C.fbx
+    - Assets/Weapons/FBX/Shield_1_E.fbx
+    - Assets/Weapons/FBX/Shield_2_A.fbx
+    - Assets/Weapons/FBX/Shield_2_B.fbx
+    - Assets/Weapons/FBX/Shield_2_C.fbx
+    - Assets/Weapons/FBX/Shield_2_E.fbx
+    - Assets/Weapons/FBX/SpikedClub_1_A.fbx
+    - Assets/Weapons/FBX/SpikedClub_1_A_001.fbx
+    - Assets/Weapons/FBX/SpikedClub_2_A.fbx
+    - Assets/Weapons/FBX/SpikedClub_2_B.fbx
+    - Assets/Weapons/FBX/Sword_1_A.fbx
+    - Assets/Weapons/FBX/Sword_1_B.fbx
+    - Assets/Weapons/FBX/Sword_1_C.fbx
+    - Assets/Weapons/Unity FBX/Arrow_1_A.fbx
+    - Assets/Weapons/Unity FBX/Arrow_1_B.fbx
+    - Assets/Weapons/Unity FBX/Arrow_2_A.fbx
+    - Assets/Weapons/Unity FBX/Arrow_2_B.fbx
+    - Assets/Weapons/Unity FBX/BattleAxe_1_1_A.fbx
+    - Assets/Weapons/Unity FBX/BattleAxe_1_1_B.fbx
+    - Assets/Weapons/Unity FBX/BattleAxe_2_1_A.fbx
+    - Assets/Weapons/Unity FBX/BattleAxe_2_1_B.fbx
+    - Assets/Weapons/Unity FBX/BattleAxe_3_1_A.fbx
+    - Assets/Weapons/Unity FBX/BattleAxe_3_1_B.fbx
+    - Assets/Weapons/Unity FBX/BattleAxe_3_1_C.fbx
+    - Assets/Weapons/Unity FBX/Bow_1_1_A_001.fbx
+    - Assets/Weapons/Unity FBX/DruidStaff_1_1_A.fbx
+    - Assets/Weapons/Unity FBX/DruidStaff_1_1_B.fbx
+    - Assets/Weapons/Unity FBX/DruidStaff_2_1_A.fbx
+    - Assets/Weapons/Unity FBX/DruidStaff_2_1_B.fbx
+    - Assets/Weapons/Unity FBX/HornB_1_1_A.fbx
+    - Assets/Weapons/Unity FBX/Shield_1_A.fbx
+    - Assets/Weapons/Unity FBX/Shield_1_B.fbx
+    - Assets/Weapons/Unity FBX/Shield_1_C.fbx
+    - Assets/Weapons/Unity FBX/Shield_1_E.fbx
+    - Assets/Weapons/Unity FBX/Shield_2_A.fbx
+    - Assets/Weapons/Unity FBX/Shield_2_B.fbx
+    - Assets/Weapons/Unity FBX/Shield_2_C.fbx
+    - Assets/Weapons/Unity FBX/Shield_2_E.fbx
+    - Assets/Weapons/Unity FBX/SpikedClub_1_A.fbx
+    - Assets/Weapons/Unity FBX/SpikedClub_1_A_001.fbx
+    - Assets/Weapons/Unity FBX/SpikedClub_2_A.fbx
+    - Assets/Weapons/Unity FBX/SpikedClub_2_B.fbx
+    - Assets/Weapons/Unity FBX/Sword_1_A.fbx
+    - Assets/Weapons/Unity FBX/Sword_1_B.fbx
+    - Assets/Weapons/Unity FBX/Sword_1_C.fbx
+
